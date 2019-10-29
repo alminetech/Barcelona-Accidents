@@ -13,6 +13,8 @@ Author: Karol Kowalski
 
 ## Purpose of the project
 
+![alt text](https://github.com/alminetech/Barcelona-Accidents/blob/master/images/barcelona-project-1.PNG)
+
 ## Results of data analysis
 
-## License
+![alt text](https://github.com/alminetech/Barcelona-Accidents/blob/master/images/barcelona-project-2.PNG)
